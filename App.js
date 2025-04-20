@@ -1,0 +1,1 @@
+import React from 'react'; const App = () => <h1>أنا حر - 90 يوم</h1>; export default App;
